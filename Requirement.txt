@@ -1,0 +1,5 @@
+nampy
+og
+matplotlib
+torchvision
+cv2
